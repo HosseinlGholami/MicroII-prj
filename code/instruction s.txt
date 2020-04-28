@@ -1,0 +1,1 @@
+http://softpixel.com/~cwright/programming/simd/mmx.php
